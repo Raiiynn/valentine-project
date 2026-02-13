@@ -32,7 +32,7 @@ export default function FinalPage() {
         className="relative z-10 font-[family-name:var(--font-press-start)] text-white text-xl md:text-4xl text-center leading-relaxed px-4"
         style={{ textShadow: '4px 4px 0 rgba(0,0,0,0.3)' }}
       >
-        Lop kesi kentuutt<br/>
+        Haiii kesi kentuutt<br/>
         HAPPY VALENTINE&apos;S DAY!
       </h1>
       
