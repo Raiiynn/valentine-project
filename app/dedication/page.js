@@ -58,7 +58,7 @@ export default function DedicationPage() {
           <p className="mb-4">For the person I choose</p>
           <p className="mb-4">in every version of the day.</p>
           <p className="mb-4">Near or far,</p>
-          <p>you are where my heart goes first.</p>
+          <p>you are where my heart goes.</p>
         </div>
       </div>
       
